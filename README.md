@@ -5,5 +5,5 @@
 | Episodio | Fecha        | Tema                        | Repo                                            | Grabación |
 | -------- | ------------ | --------------------------- | ----------------------------------------------- | --------- |
 | 3        | 09/08/2020   | TBD                         | * misterio *                                    | * misterio * |
-| 2        | 02/08/2020   | Backend: Escítala moderna   | [Link](https://github.com/devoffarg/devoff-desafio-1) | [Link](https://www.youtube.com/watch?v=SHMmgA1hPGY) |
+| 2        | 02/08/2020   | Backend: Escítala moderna   | [Link](https://github.com/devoffarg/devoff-desafio-2) | [Link](https://www.youtube.com/watch?v=faWzzapWFZc) |
 | 1        | 26/07/2020   | HTML/CSS: Galería de fotos  | [Link](https://github.com/devoffarg/devoff-desafio-1) | [Link](https://www.youtube.com/watch?v=SHMmgA1hPGY) |
