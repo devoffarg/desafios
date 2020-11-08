@@ -2,9 +2,16 @@
 
 # Índice de desafíos
 
+## Temporada 2
+
 | Episodio | Fecha        | Tema                        | Repo                                                   | Grabación                                           |
 | -------- | ------------ | --------------------------- | ------------------------------------------------------ | --------------------------------------------------- |
-| 5        | * misterio * | * misterio *                | * misterio *                                           | * misterio *                                        |
+| 5        | 08/11/2020   | Frontend: Pokexplorador     | [Link](https://github.com/devoffarg/devoff-desafio-5)  | * misterio *                                        |
+
+## Temporada 1
+
+| Episodio | Fecha        | Tema                        | Repo                                                   | Grabación                                           |
+| -------- | ------------ | --------------------------- | ------------------------------------------------------ | --------------------------------------------------- |
 | 4        | 23/08/2020   | Full Stack: Chat & Sockets  | [Link](https://github.com/devoffarg/devoff-desafio-4)  | [Link](https://www.youtube.com/watch?v=8_YQWnYfbyQ) |
 | 3        | 09/08/2020   | JavaScript: Canvas API      | [Link](https://github.com/devoffarg/devoff-desafio-3)  | [Link](https://www.youtube.com/watch?v=qS6kC-EIJoE) |
 | 2        | 02/08/2020   | Backend: Escítala moderna   | [Link](https://github.com/devoffarg/devoff-desafio-2)  | [Link](https://www.youtube.com/watch?v=faWzzapWFZc) |
